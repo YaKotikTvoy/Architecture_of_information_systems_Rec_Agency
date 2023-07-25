@@ -1,6 +1,7 @@
-# Курсовая работа по Архитектуре ИС
-## ИС Агентсво кадров
-![ИС Агентсво кадров](image/agenstvoKadrov.jpg)
+<section align="center">
+  <h1>Курсовая работа по Архитектуре ИС "Агентсво кадров"</h1>
+  <img style="width:320px;"src="image\agenstvoKadrov.png"></img>
+</section>
 
 ### Окно входа в ИС
 ![Окно входа в ИС](image/SignIn1.jpg)
